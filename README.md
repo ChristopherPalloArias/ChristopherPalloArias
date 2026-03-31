@@ -1,31 +1,36 @@
-<h1 align="center">Hi 👋, I'm Christopher Pallo Arias</h1>
-<h3 align="center">Full Cycle Engineer | Backend, QA Automation, Performance & DevOps</h3>
+# Hi, I'm Christopher Pallo Arias 👋
 
-<p align="center">
-  Building reliable software across development, testing, performance, infrastructure, and delivery.
-</p>
+📍 **Ecuador** | 🚀 **Full Cycle Engineer** | 🧪 **Backend + QA Automation + Performance + DevOps**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/christopher-pallo-arias-6a840b261" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Christopher%20Pallo%20Arias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:christopherpallo2000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-christopherpallo2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![k6](https://img.shields.io/badge/-k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Karate](https://img.shields.io/badge/-Karate-111111?style=flat-square&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Full+Cycle+Engineer;Spring+Boot+%7C+.NET+%7C+Node.js+%7C+Python;QA+Automation+%7C+API+Testing+%7C+Performance+Testing;Terraform+%7C+CI%2FCD+%7C+Grafana+%7C+Prometheus" alt="Typing SVG" />
-</p>
+> Building reliable software across development, testing, performance, infrastructure, and delivery.
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/ChristopherPalloArias)
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full Cycle Engineer** focused on building reliable solutions across the complete software lifecycle.  
-My strongest experience is in **backend development, QA automation, API validation, performance testing, infrastructure, and delivery pipelines**.
+I'm a **Full Cycle Engineer** focused on building and validating reliable software solutions across the complete software lifecycle.
 
-I mainly work with **Spring Boot, .NET, Node.js, and Python**, while also integrating engineering practices related to **automation, observability, CI/CD, and infrastructure as code**.
+My strongest experience is in **Spring Boot, .NET, Node.js, and Python**, with additional focus on:
+
+- **QA Automation**
+- **API Testing**
+- **Performance Testing**
+- **CI/CD**
+- **Infrastructure as Code**
+- **Monitoring and Observability**
 
 ---
 
