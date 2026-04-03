@@ -21,7 +21,7 @@
 
 Soy un desarrollador de software de **Quito, Ecuador**, apasionado por construir soluciones tecnológicas escalables, optimizar procesos y entender la arquitectura detrás de un buen producto.
 
-Actualmente formo parte del programa Trainee en **Sofka Technologies** y, a la par, colaboro como Líder Técnico en **Consulteg Corp**. Me enfoco mucho en el desarrollo backend, las buenas prácticas y en hacer que la tecnología trabaje a nuestro favor de manera inteligente.
+Actualmente formo parte del programa Trainee en **Sofka Technologies** y, a la par, colaboro en mis tiempos libres como Líder Técnico en **Consulteg Corp**. Me enfoco mucho en el desarrollo backend, las buenas prácticas y en hacer que la tecnología trabaje a nuestro favor de manera inteligente.
 
 **🤖 IA en el desarrollo:** Me interesa profundamente el desarrollo asistido por Inteligencia Artificial, pero no usándola como un simple chat para adivinar código. Me enfoco en la forma correcta de integrarla: creando agentes, skills y contextos estructurados para que la IA actúe como un verdadero copiloto dentro del flujo de trabajo y la arquitectura del sistema.
 
