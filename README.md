@@ -21,21 +21,12 @@
 
 Soy un desarrollador de software de **Quito, Ecuador**, apasionado por construir soluciones tecnológicas escalables, optimizar procesos y entender la arquitectura detrás de un buen producto.
 
-Actualmente formo parte del programa Trainee en **Sofka Technologies** y, a la par, colaboro en mis tiempos libres como Líder Técnico en **Consulteg Corp**. 
-
-**🤖 IA en el desarrollo:** Me interesa profundamente el desarrollo asistido por Inteligencia Artificial, pero no usándola como un simple chat para adivinar código. Me enfoco en la forma correcta de integrarla: creando agentes, skills y contextos estructurados para que la IA actúe como un verdadero copiloto dentro del flujo de trabajo y la arquitectura del sistema.
-
-### 🎯 En qué ando ahora mismo
-
-* 🎓 Egresado de Ingeniería en Sistemas de la **Universidad Central del Ecuador (UCE)**.
-* 🚀 A un paso de terminar mi **tesis de grado** (enfocada en e-commerce) — un proyecto con potencial pionero en su área.
-* 💻 Mi entorno principal y zona de confort absoluta es **Debian** 🐧.
+Me interesa profundamente el desarrollo asistido por Inteligencia Artificial, pero no usándola como un simple chat para adivinar código. Me enfoco en la forma correcta de integrarla: creando agentes, skills y contextos estructurados para que la IA actúe como un verdadero copiloto dentro del flujo de trabajo y la arquitectura del sistema.
 
 ### ✨ Fuera de la consola
 
 * 🐶 Siempre acompañado de **Nube**, mi fiel soporte técnico en largas sesiones de código.
 * 🎮 **Clash Royale**, **FIFA** o la **Nintendo Switch** son mi reset mental oficial.
-* ⚽ El equilibrio es clave: nada como dejar el teclado y jugar fútbol con amigos.
 
 </td>
 <td valign="top" width="45%" align="center">
@@ -49,14 +40,6 @@ Actualmente formo parte del programa Trainee en **Sofka Technologies** y, a la p
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Actividad de contribuciones
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ChristopherPalloArias" alt="GitHub Contribution Graph" />
-</p>
 
 ---
 
