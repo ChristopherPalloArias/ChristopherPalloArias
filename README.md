@@ -23,11 +23,6 @@ Soy un desarrollador de software de **Quito, Ecuador**, apasionado por construir
 
 Me interesa profundamente el desarrollo asistido por Inteligencia Artificial, pero no usándola como un simple chat para adivinar código. Me enfoco en la forma correcta de integrarla: creando agentes, skills y contextos estructurados para que la IA actúe como un verdadero copiloto dentro del flujo de trabajo y la arquitectura del sistema.
 
-### ✨ Fuera de la consola
-
-* 🐶 Siempre acompañado de **Nube**, mi fiel soporte técnico en largas sesiones de código.
-* 🎮 **Clash Royale**, **FIFA** o la **Nintendo Switch** son mi reset mental oficial.
-
 </td>
 <td valign="top" width="45%" align="center">
 
